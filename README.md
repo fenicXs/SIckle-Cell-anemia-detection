@@ -9,6 +9,7 @@ The dataset used in this project consists of two classes:
 - Sickle Cells: Images of sickle-shaped red blood cells indicative of sickle cell anaemia
 
 The dataset comprises 147 images of normal cells and 422 images of sickle cells, totalling 569 images. Each image is of size 256x256 pixels.
+Visit for dataset: https://www.kaggle.com/datasets/florencetushabe/sickle-cell-disease-dataset/code?datasetId=3913975&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
 
 <h2>Model Architecture</h2>
 
